@@ -7,5 +7,3 @@
 |---|---|
 | [`refs/uber-software-factory/article.md`](refs/uber-software-factory/article.md) | Article text, converted to Markdown, figures inlined |
 | `refs/uber-software-factory/images/` | The 15 figures, highest resolution X serves |
-| [`refs/uber-software-factory/notes.md`](refs/uber-software-factory/notes.md) | My analysis — not part of the source article |
-| [`refs/uber-software-factory/README.md`](refs/uber-software-factory/README.md) | Provenance, figure index, capture method |
