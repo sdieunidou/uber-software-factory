@@ -6,4 +6,5 @@
 | Path | What |
 |---|---|
 | [`refs/uber-software-factory/article.md`](refs/uber-software-factory/article.md) | Article text, converted to Markdown, figures inlined |
+| [`refs/uber-software-factory/article_fr.md`](refs/uber-software-factory/article_fr.md) | French translation of the article (unofficial) |
 | `refs/uber-software-factory/images/` | The 15 figures, highest resolution X serves |
